@@ -10,6 +10,9 @@ secrets.json
 # Add original working file
 PythonProject1 - Spotipy.ipynb
 
+# Add temporary image file
+image.png
+
 # Logs
 logs
 *.log
